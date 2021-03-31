@@ -1,0 +1,279 @@
+
+body{
+    overflow-x: hidden;
+}
+/* Navbar */
+.navbar-brand {
+    font: 3px ;
+    color: black;
+}
+
+
+
+.nav-line{
+    background: white;
+}
+
+/* block */
+.block, .block-fluid {
+    background: url('/images/coronavirus.jpg');
+    background-size: cover;
+    height: 540px;
+    position: relative;
+    z-index: -1;
+}
+
+.block::after {
+    content: '';
+    display: block;
+    position: absolute;
+    width: 100%;
+    height: 50%;
+    background-image: linear-gradient(to top, rgba(0,0,0,1), rgba(0,0,0,0));
+    bottom: 0;
+}
+
+.block .container {
+    color: white;
+    text-align: center;
+    position: relative;
+    font-size: 5px;
+    float: left;
+    z-index: 1;
+}
+
+.block .display-4 {
+    font-weight: 200;
+    font-size: 2.6em;
+    margin-top: 100px;
+    
+    margin-bottom: 50px;
+}
+
+.block .display-4 span {
+    font-weight: 500;
+}
+
+.colored-section{
+    background-color: rgb(6, 6, 48);
+    color:white;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    width:100%;
+    border-radius: 25px;
+}
+#prevention{
+    position: relative;
+    width:100%;
+}
+
+/* Info Panel */
+.info-panel {
+    background-color: white;
+    padding: 30px;
+    margin-top: -120px;
+    border-radius: 12px;
+    box-shadow: 0 3px 20px rgba(0, 0, 0, 0.6);
+}
+
+.info-panel h4 {
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 20px;
+    text-transform: uppercase;
+}
+
+.info-panel p {
+    font-size: 14px;
+    font-weight: lighter;
+    color: #acacac;
+}
+
+
+
+/* Workingspace */
+.workingspace {
+    margin-top: 120px;
+    text-align: center;
+}
+
+.workingspace img {
+    margin-bottom: 20px;
+}
+
+.workingspace h2 {
+    font-size: 52px;
+    text-transform: uppercase;
+    font-weight: 200;
+}
+
+.workingspace h2 span {
+    font-weight: 500;
+}
+
+.workingspace p {
+    font-size: 18px;
+    color: #ACACAC;
+    font-weight: 200;
+}
+
+
+/* Testimonial */
+.testimonial {
+    margin-top: 130px;
+}
+
+.testimonial p {
+    font-size: 1.4em;
+    text-align: center;
+    font-weight: 200;
+    font-style: italic;
+    margin-bottom: 30px;
+}
+
+.testimonial img {
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 50%;
+    filter: grayscale(1);
+}
+
+.testimonial .img-main {
+    width: 100px;
+    height: 100px;
+    margin-top: -5px;
+    filter: grayscale(0);
+}
+
+.testimonial .info-text h5 {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.testimonial .info-text p {
+    font-size: 12px;
+    margin-top: -5px;
+    color: #acacac;
+    font-style: normal;
+}
+
+/* Button */
+#myBtn {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    z-index: 99;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    background-color: red;
+    color: white;
+    cursor: pointer;
+    padding: 15px;
+    border-radius: 4px;
+  }
+#myBtn:hover {
+    background-color: black;
+}
+
+/* Utility */
+.tombol {
+    border-radius: 40px;
+    text-transform: uppercase;
+}
+
+.btn:hover{
+    color: black;
+}
+
+/* Logos */
+#features {
+    position: relative;
+}
+.feature-box {
+    padding: 4.5%;
+}
+.white-section {
+    background: white;
+   color: black;
+} 
+.feature-title {
+    font-size: 1.5rem;
+}
+
+
+/* Footer */
+#footer{
+    background-color: rgb(6, 6, 48);
+    color:white;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    width:100%;
+}
+
+/* Mobile */
+@media (max-width: 600px){
+
+}
+
+/* RESPONSIVE */
+@media (min-width: 992px) {
+    .navbar {
+        padding-top: 20px;
+    }
+    #links{
+        color:blue;
+    }
+    .navbar-brand, .nav-link {
+        color:blue !important;
+        
+    }
+    .row, h5{
+        text-align: center;
+    }
+    .nav-link {
+        text-transform: uppercase;
+        margin-right: 20px;
+        color:blue;
+    }
+
+    .nav-link:hover::after,
+    .nav-link.active::after {
+        content: '';
+        display: block;
+        border-bottom: 3px solid #0B63DC;
+        margin: auto;
+        margin-bottom: -8px;
+        width: 50%;
+        padding-top: 5px;
+    }
+     .col-lg{
+        justify-content: center;
+    }
+
+    .block {
+        margin-top: -90px;
+        height: 640px;
+    }
+
+    .block .display-4 {
+        font-size: 5em;
+        margin-top: 300px;
+        margin-right: 500px;
+    }
+    .btn{
+        
+        margin-right: 500px;
+    }
+
+    .workingspace {
+        text-align: left;
+    }
+
+
+    .testimonial p {
+        font-size: 2em;
+    }
+}

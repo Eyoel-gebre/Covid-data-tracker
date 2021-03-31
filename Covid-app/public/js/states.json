@@ -1,0 +1,352 @@
+[
+	{
+		"abbr": "AL",
+		"name": "Alabama",
+		"capital": "Montgomery",
+		"deaths": "2786",
+		"cases": "170,374"
+	},
+	{
+		"abbr": "AK",
+		"name": "Alaska",
+		"capital": "Juneau",
+		"deaths": "2786",
+		"cases": "170,374"
+	},
+	{
+		"abbr": "AZ",
+		"name": "Arizona",
+		"capital": "Phoenix",
+		"deaths": "2786",
+		"cases": "170,374"
+	},
+	{
+		"abbr": "AR",
+		"name": "Arkansas",
+		"capital": "Little Rock",
+		"deaths": "2786",
+		"cases": "170,374"
+	},
+	{
+		"abbr": "CA",
+		"name": "California",
+		"capital": "Sacramento",
+		"deaths": "2786",
+		"cases": "170,374"
+	},
+	{
+		"abbr": "CO",
+		"name": "Colorado",
+		"capital": "Denver",
+		"deaths": "2786",
+		"cases": "170,374"
+	},
+	{
+		"abbr": "CT",
+		"name": "Connecticut",
+		"capital": "Hartford",
+		"deaths": "2786",
+		"cases": "170,374"
+	},
+	{
+		"abbr": "DE",
+		"name": "Delaware",
+		"capital": "Dover",
+		"deaths": "2786",
+		"cases": "170,374"
+	},
+	{
+		"abbr": "FL",
+		"name": "Florida",
+		"capital": "Tallahassee",
+		"deaths": "2786",
+		"cases": "170,374"
+	},
+	{
+		"abbr": "GA",
+		"name": "Georgia",
+		"capital": "Atlanta",
+		"deaths": "2786",
+		"cases": "170,374"
+	},
+	{
+		"abbr": "HI",
+		"name": "Hawaii",
+		"capital": "Honolulu",
+		"deaths": "2786",
+		"cases": "170,374"
+	},
+	{
+		"abbr": "ID",
+		"name": "Idaho",
+		"capital": "Boise",
+		"deaths": "2786",
+		"cases": "170,374"
+	},
+	{
+		"abbr": "IL",
+		"name": "Illinois",
+		"capital": "Springfield",
+		"deaths": "2786",
+		"cases": "170,374"
+	},
+	{
+		"abbr": "IN",
+		"name": "Indiana",
+		"capital": "Indianapolis",
+		"deaths": "2786",
+		"cases": "170,374"
+	},
+	{
+		"abbr": "IA",
+		"name": "Iowa",
+		"capital": "Des Moines",
+		"deaths": "2786",
+		"cases": "170,374"
+	},
+	{
+		"abbr": "KS",
+		"name": "Kansas",
+		"capital": "Topeka",
+		"deaths": "2786",
+		"cases": "170,374"
+	},
+	{
+		"abbr": "KY",
+		"name": "Kentucky",
+		"capital": "Frankfort",
+		"deaths": "2786",
+		"cases": "170,374"
+	},
+	{
+		"abbr": "LA",
+		"name": "Louisiana",
+		"capital": "Baton Rouge",
+		"deaths": "2786",
+		"cases": "170,374"
+	},
+	{
+		"abbr": "ME",
+		"name": "Maine",
+		"capital": "Augusta",
+		"deaths": "2786",
+		"cases": "170,374"
+	},
+	{
+		"abbr": "MD",
+		"name": "Maryland",
+		"capital": "Annapolis",
+		"deaths": "2786",
+		"cases": "170,374"
+	},
+	{
+		"abbr": "MA",
+		"name": "Massachusetts",
+		"capital": "Boston",
+		"deaths": "2786",
+		"cases": "170,374"
+	},
+	{
+		"abbr": "MI",
+		"name": "Michigan",
+		"capital": "Lansing",
+		"deaths": "2786",
+		"cases": "170,374"
+	},
+	{
+		"abbr": "MN",
+		"name": "Minnesota",
+		"capital": "Saint Paul",
+		"deaths": "2786",
+		"cases": "170,374"
+	},
+	{
+		"abbr": "MS",
+		"name": "Mississippi",
+		"capital": "Jackson",
+		"deaths": "2786",
+		"cases": "170,374"
+	},
+	{
+		"abbr": "MO",
+		"name": "Missouri",
+		"capital": "Jefferson City",
+		"deaths": "2786",
+		"cases": "170,374"
+	},
+	{
+		"abbr": "MT",
+		"name": "Montana",
+		"capital": "Helana",
+		"deaths": "2786",
+		"cases": "170,374"
+	},
+	{
+		"abbr": "NE",
+		"name": "Nebraska",
+		"capital": "Lincoln",
+		"deaths": "2786",
+		"cases": "170,374"
+	},
+	{
+		"abbr": "NV",
+		"name": "Nevada",
+		"capital": "Carson City",
+		"deaths": "2786",
+		"cases": "170,374"
+	},
+	{
+		"abbr": "NH",
+		"name": "New Hampshire",
+		"capital": "Concord",
+		"deaths": "2786",
+		"cases": "170,374"
+	},
+	{
+		"abbr": "NJ",
+		"name": "New Jersey",
+		"capital": "Trenton",
+		"deaths": "2786",
+		"cases": "170,374"
+	},
+	{
+		"abbr": "NM",
+		"name": "New Mexico",
+		"capital": "Santa Fe",
+		"deaths": "2786",
+		"cases": "170,374"
+	},
+	{
+		"abbr": "NY",
+		"name": "New York",
+		"capital": "Albany",
+		"deaths": "2786",
+		"cases": "170,374"
+	},
+	{
+		"abbr": "NC",
+		"name": "North Carolina",
+		"capital": "Raleigh",
+		"deaths": "2786",
+		"cases": "170,374"
+	},
+	{
+		"abbr": "ND",
+		"name": "North Dakota",
+		"capital": "Bismarck",
+		"deaths": "2786",
+		"cases": "170,374"
+	},
+	{
+		"abbr": "OH",
+		"name": "Ohio",
+		"capital": "Columbus",
+		"deaths": "2786",
+		"cases": "170,374"
+	},
+	{
+		"abbr": "OK",
+		"name": "Oklahoma",
+		"capital": "Oklahoma City",
+		"deaths": "2786",
+		"cases": "170,374"
+	},
+	{
+		"abbr": "OR",
+		"name": "Oregon",
+		"capital": "Salem",
+		"deaths": "2786",
+		"cases": "170,374"
+	},
+	{
+		"abbr": "PA",
+		"name": "Pennsylvania",
+		"capital": "Harrisburg",
+		"deaths": "2786",
+		"cases": "170,374"
+	},
+	{
+		"abbr": "RI",
+		"name": "Rhode Island",
+		"capital": "Providence",
+		"deaths": "2786",
+		"cases": "170,374"
+	},
+	{
+		"abbr": "SC",
+		"name": "South Carolina",
+		"capital": "Columbia",
+		"deaths": "2786",
+		"cases": "170,374"
+	},
+	{
+		"abbr": "SD",
+		"name": "South Dakota",
+		"capital": "Pierre",
+		"deaths": "2786",
+		"cases": "170,374"
+	},
+	{
+		"abbr": "TN",
+		"name": "Tennessee",
+		"capital": "Nashville",
+		"deaths": "2786",
+		"cases": "170,374"
+	},
+	{
+		"abbr": "TX",
+		"name": "Texas",
+		"capital": "Austin",
+		"deaths": "2786",
+		"cases": "170,374"
+	},
+	{
+		"abbr": "UT",
+		"name": "Utah",
+		"capital": "Salt Lake City",
+		"deaths": "2786",
+		"cases": "170,374"
+	},
+	{
+		"abbr": "VT",
+		"name": "Vermont",
+		"capital": "Montpelier",
+		"deaths": "2786",
+		"cases": "170,374"
+	},
+	{
+		"abbr": "VA",
+		"name": "Virginia",
+		"capital": "Richmond",
+		"deaths": "2786",
+		"cases": "170,374"
+	},
+	{
+		"abbr": "WA",
+		"name": "Washington",
+		"capital": "Olympia",
+		"deaths": "2786",
+		"cases": "170,374"
+	},
+	{
+		"abbr": "WV",
+		"name": "West Virginia",
+		"capital": "Charleston",
+		"deaths": "2786",
+		"cases": "170,374"
+	},
+	{
+		"abbr": "WI",
+		"name": "Wisconsin",
+		"capital": "Madison",
+		"deaths": "2786",
+		"cases": "170,374"
+	},
+	{
+		"abbr": "WY",
+		"name": "Wyoming",
+		"capital": "Cheyenne",
+		"deaths": "2786",
+		"cases": "170,374"
+	}
+]
